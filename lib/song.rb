@@ -45,5 +45,4 @@ class Song
     end
   return artist_count
   end
-
 end
